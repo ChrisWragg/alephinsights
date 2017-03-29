@@ -2,3 +2,10 @@ gems:
  - jekyll-sitemap
 
 theme: jekyll-theme-cayman
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CHANGELOG.md
